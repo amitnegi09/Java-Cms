@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:h="http://www.onehippo.org/jcr/xmlimport" sv:name="top" h:merge="combine">
+  <sv:property sv:multiple="true" sv:name="bar.style.urlparts" sv:type="String">
+    <sv:value>localhost:8080/cms</sv:value>
+    <sv:value>demo.test</sv:value>
+    <sv:value>demo.acct</sv:value>
+    <sv:value>demo</sv:value>
+  </sv:property>
+  <sv:property sv:multiple="true" sv:name="bar.styles" sv:type="String">
+    <sv:value>background:#848482</sv:value>
+    <sv:value>background:#348017</sv:value>
+    <sv:value>background:#FFA62F</sv:value>
+    <sv:value>background:#F00000</sv:value>
+  </sv:property>
+</sv:node>
